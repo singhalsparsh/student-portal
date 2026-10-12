@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <name>Aman Verma</name>
+    <course>Computer Science</course>
+    <semester>4</semester>
+    <marks>88</marks>
+  </student>
+  <student>
+    <name>Priya Sharma</name>
+    <course>Information Technology</course>
+    <semester>3</semester>
+    <marks>95</marks>
+  </student>
+  <student>
+    <name>Rahul Singh</name>
+    <course>Electronics</course>
+    <semester>5</semester>
+    <marks>72</marks>
+  </student>
+  <student>
+    <name>Neha Gupta</name>
+    <course>Mechanical</course>
+    <semester>2</semester>
+    <marks>64</marks>
+  </student>
+  <student>
+    <name>Imran Khan</name>
+    <course>Civil</course>
+    <semester>6</semester>
+    <marks>79</marks>
+  </student>
+  <student>
+    <name>Sara Joseph</name>
+    <course>Computer Science</course>
+    <semester>1</semester>
+    <marks>91</marks>
+  </student>
+</students>
